@@ -13,4 +13,4 @@
 
 # 关于
 
-　　联系我请发邮件：[bibaijin@gmail.com](bibaijin@gmail.com)。
+　　联系我请发邮件：<bibaijin@gmail.com>
